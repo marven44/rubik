@@ -13,7 +13,7 @@ public class Arrays {
 	ArrayList<String> isimler = new ArrayList<>();
 
 	isimler.add("Vahap");
-	isimler.add("Defne");
+	isimler.add("Defne"); //branch denemesi
 	isimler.add("Gokce");
 	
 	System.out.println(isimler.get(1));
