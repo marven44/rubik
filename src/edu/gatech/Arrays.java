@@ -14,7 +14,7 @@ public class Arrays {
 
 	isimler.add("Vahap");
 	isimler.add("Defne"); //branch denemesi
-	isimler.add("Gokce");
+	isimler.add("Gokce");  //sprint1
 	
 	System.out.println(isimler.get(1));
 	System.out.println("Suanda " + isimler.size() + " kiþi tanýmlanmýþ");
